@@ -69,7 +69,7 @@ These tables are connected using **primary and foreign keys** to perform joins a
 * China contributes **over 32%** of global emissions
 * GDP is rising faster than emissions, showing **better energy efficiency** in some regions
 
-> **Note:** These insights are derived from my own observations based on the available data and analysis. Other insights and interpretations can also be drawn from the same dataset.
+> **Note:** `These insights are derived from my own observations based on the available data and analysis. Other insights and interpretations can also be drawn from the same dataset.`
 
 ---
 
@@ -82,30 +82,13 @@ These tables are connected using **primary and foreign keys** to perform joins a
 
 ---
 
-## 🧠 Experience & Challenges
-
-### Experience
-
-* Hands-on practice with SQL joins, grouping, and aggregation
-* Better understanding of real-world energy and emission data
-
-### Challenges
-
-* Handling large datasets
-* Understanding the real-world meaning behind trends
-* Writing optimized SQL queries
-
----
 
 ## 🛠️ Tools & Technologies Used
 
 * SQL (MySQL/PostgreSQL)
 * MS PowerPoint
-* GitHub
 
 ---
-
-
 
 ## 📌 How to Use This Repository
 
@@ -116,5 +99,4 @@ These tables are connected using **primary and foreign keys** to perform joins a
 
 ---
 
-⭐ *If you like this project, don’t forget to star the repository!*
 
