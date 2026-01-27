@@ -49,6 +49,8 @@ The database consists of tables related to:
 
 These tables are connected using **primary and foreign keys** to perform joins and aggregations for analysis.
 
+You can find the ER Diagram Here: https://github.com/Yogi14-93/Project---World-Wide-Energy-Consumption-Analysis---SQL-/blob/main/EER%20Diagram.png
+
 ---
 
 ## ❓ Key Analysis Questions
